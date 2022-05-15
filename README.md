@@ -8,3 +8,7 @@
 EricLIU66/EricLIU66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+The code of MSBD 5001 individual project is in 'individual-project'
+
+The code of MSBD 5017 project is in 'blockchain'
